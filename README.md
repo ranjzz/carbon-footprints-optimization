@@ -56,3 +56,4 @@ This project uses deep learning to optimize delivery routes in logistics by mini
 1. **Install Libraries:**
    ```bash
    pip install pandas numpy scikit-learn tensorflow matplotlib openpyxl
+   https://drive.google.com/drive/folders/1vHYQJzIHt205BCgvmhBih9PygyCluIZW?usp=sharing
