@@ -46,7 +46,8 @@ This project uses deep learning to optimize delivery routes in logistics by mini
 
 - `data1.csv.xlsx` – dataset file  
 - `carbon-footprints.py` – model and route logic  
-- `carbon_emission_model.h5` – trained model  
+- `carbon_emission_model.h5` – trained model
+- 'lib'-https://drive.google.com/drive/folders/1vHYQJzIHt205BCgvmhBih9PygyCluIZW?usp=sharing
 - `README.md` – project guide
 
 ---
@@ -56,4 +57,3 @@ This project uses deep learning to optimize delivery routes in logistics by mini
 1. **Install Libraries:**
    ```bash
    pip install pandas numpy scikit-learn tensorflow matplotlib openpyxl
-   https://drive.google.com/drive/folders/1vHYQJzIHt205BCgvmhBih9PygyCluIZW?usp=sharing
